@@ -11,3 +11,5 @@
 - {level} - critical / error / warning / info / debug
 - {logger_name} - logger name
 - {message} - logged message
+
+_(documentation WIP)_
